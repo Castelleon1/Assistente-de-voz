@@ -16,8 +16,8 @@ CANAIS = 1
 AMOSTRAS = 1024
 TAXA_AMOSTRAGEM = 16000
 TEMPO_GRAVACAO = 5
-CAMINHO_AUDIO_FALAS = "C:\\Users\\joaov\\OneDrive\\Área de Trabalho\\trabalho IA\\temp"
-CONFIGURACOES = "C:\\Users\\joaov\\OneDrive\\Área de Trabalho\\trabalho IA\\config.json"
+CAMINHO_AUDIO_FALAS = "C:\\Users\\joaov\\OneDrive\\Área de Trabalho\\Assistente de voz\\temp"
+CONFIGURACOES = "C:\\Users\\joaov\\OneDrive\\Área de Trabalho\\Assistente de voz\\config.json"
 
 MODO_LINHA_DE_COMANDO = 1
 MODO_WEB = 2
