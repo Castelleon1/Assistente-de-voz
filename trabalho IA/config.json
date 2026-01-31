@@ -1,0 +1,35 @@
+{
+    "acoes": [
+            { 
+                "nome": "gerar", 
+                "dispositivos": [
+                    "relatório", 
+                    "relatorio", 
+                    "relatório financeiro"
+                ] 
+            },
+            { 
+                "nome": "registrar", 
+                "dispositivos": [
+                    "despesa", 
+                    "gasto", 
+                    "nova despesa"
+                    ] 
+            },
+            { 
+                "nome": "verificar", 
+                "dispositivos": [
+                    "saldo", 
+                    "saldo disponível"
+                    ] 
+            },
+            { 
+                "nome": "mostrar", 
+                "dispositivos": [
+                    "investimentos", 
+                    "carteira", 
+                    "status dos investimentos"
+                ] 
+            }
+    ]
+}
